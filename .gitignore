@@ -8,6 +8,7 @@ build/
 /*.md
 !/README.md
 /seed/
+/seed/assets/
 /work/
 /docs/
 /handoff/
